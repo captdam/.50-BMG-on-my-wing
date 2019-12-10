@@ -6,3 +6,5 @@ The index.py is the root script. Coded and tested on Linux, not sure about Windo
 Write this mini game to learn Python and Pygame, may going to make a real 2D game using this util later
 
 \_(:3)_| <\__ Pigeon... Gu Gu
+
+![screen shot](https://raw.githubusercontent.com/captdam/.50-BMG-on-my-wing/master/screenshot-1.png "In-game screenshot")
